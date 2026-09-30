@@ -1,0 +1,18 @@
+SW-Core#show vtp status 
+VTP Version capable             : 1 to 3
+VTP version running             : 1
+VTP Domain Name                 : ccna
+VTP Pruning Mode                : Disabled
+VTP Traps Generation            : Disabled
+Device ID                       : 0c96.f577.8000
+Configuration last modified by 0.0.0.0 at 9-30-26 08:02:55
+Local updater ID is 0.0.0.0 (no valid interface found)
+
+Feature VLAN:
+--------------
+VTP Operating Mode                : Server
+Maximum VLANs supported locally   : 1005
+Number of existing VLANs          : 10
+Configuration Revision            : 5
+MD5 digest                        : 0xBB 0x4D 0x1E 0x8A 0x30 0x33 0xF0 0x38 
+                                    0x12 0xD8 0x19 0xCA 0x29 0x1B 0x8F 0xB1
