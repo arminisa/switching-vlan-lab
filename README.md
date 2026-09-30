@@ -26,7 +26,6 @@ Simulated a multi-switch enterprise network with VLAN segmentation, centralized 
 - **Port Security** on Access Ports
 
 ## ⚙️ Configuration Guide
-## ⚙️ Configuration Guide
 Full configuration files are available in the [`config/`](config/) directory.
 - [R1 Configuration](config/R1.txt)
 - [SW-Core Configuration](config/SW-Core.txt)
