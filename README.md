@@ -26,7 +26,7 @@ Simulated a multi-switch enterprise network with VLAN segmentation, centralized 
 - **Port Security** on Access Ports
 
 ## ⚙️ Configuration Guide
-(این بخش رو بعد از آپلود کانفیگ‌ها با لینک به پوشه `configs/` پر می‌کنیم)
+
 
 ## ✅ Verification
 | Test | Command | Result |
