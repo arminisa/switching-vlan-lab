@@ -40,6 +40,11 @@ Full configuration files are available in the [`config/`](config/) directory.
 | EtherChannel | `show etherchannel summary` | `Po1(SU)`, `Po2(SU)` |
 | Port Security | `show port-security int gi0/3` | Violation Count: 3 |
 
+### Verification Outputs
+- [EtherChannel Summary](verification/etherchannel-summary.txt)
+- [Port Security Status](verification/port-security.txt)
+- [VTP Status](verification/vtp-summary.txt)
+
 ## 📚 Lessons Learned
 1. VTPام Revision Number risks and mitigation.
 2. LACP vs PAgP configuration differences.
